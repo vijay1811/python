@@ -50,6 +50,7 @@ RUN set -ex \
 		libffi-dev \
 		libnsl-dev \
 		libtirpc-dev \
+		libressl-dev \
 		linux-headers \
 		make \
 		ncurses-dev \
